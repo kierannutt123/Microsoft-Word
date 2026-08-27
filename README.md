@@ -2,7 +2,7 @@
 End User guides for Microsoft Word
 
 ## Ribbon Tabs
-![Home](WordHomeTab.png)
+![Home](WordHomeTa.png)
 ## Keyboard Shortcuts
 
 ### General
