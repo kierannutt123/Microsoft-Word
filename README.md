@@ -1,9 +1,11 @@
 # Microsoft Word
 End User guides for Microsoft Word
 
-# Keyboard Shortcuts
+## Ribbon Tabs
 
-## General
+## Keyboard Shortcuts
+
+### General
 
 | Shortcut | Action | Description |
 |----------|--------|-------------|
@@ -14,7 +16,7 @@ End User guides for Microsoft Word
 | Ctrl + Y | Redo | Restores the last action that was undone. |
 | Ctrl + S | Save | Saves the changes made to the current document. |
 
-## Formatting
+### Formatting
 
 | Shortcut | Action | Description |
 |----------|--------|-------------|
