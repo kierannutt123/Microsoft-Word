@@ -2,6 +2,7 @@
 An end-user reference covering key Microsoft Word tools and features.
 
 ## Ribbon Tabs
+These will show at the top above the document.
 ![Home](Word%20Ribbon.png)
 
 ### Other Ribbon Tabs
@@ -31,6 +32,8 @@ Change document views, zoom, rulers, and the Navigation Pane.
 
 #### Help
 Access Word help, support, and training.
+
+**Note:** Many common tools and formatting options can also be accessed through the right-click menu.
 
 ### Additional Features
 #### Developer Tab
